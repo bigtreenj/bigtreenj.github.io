@@ -70,7 +70,7 @@ netease_comment: false
 # ga_domain: huangxuan.me
 
 # Sidebar settings
-sidebar: false # whether or not using Sidebar.
+sidebar: false
 sidebar-about-description: "收集"
 # sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -83,7 +83,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: true
+page-mathjax: false
 
 # Friends
 # friends:
