@@ -1,0 +1,13 @@
+---
+layout : post
+title: "vsCODE"查找替换配对$的一例
+author : bigtreenj
+header-style: text
+catalog: true
+tags:
+  - Web
+  - Javascript
+---
+
+查找 ^([^\n\$]*?(?:\$ ?[^\n\$]*? ?\$[^\n\$]*?)*?)\$ ([^\n\$]*?) \$
+替换为 $1$$$2$$
