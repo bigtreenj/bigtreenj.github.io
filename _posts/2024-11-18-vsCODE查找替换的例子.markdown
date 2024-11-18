@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "vsCODE"查找替换配对$的一例
-author : bigtreenj
-header-style: text
-catalog: true
+layout:        post
+title:         vsCODE查找替换配对的一例
+author:         bigtreenj
+header-style:   text
+catalog:        true
 tags:
   - vsCODE
   - 查找替换
