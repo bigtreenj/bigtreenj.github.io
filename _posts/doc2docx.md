@@ -1,3 +1,4 @@
+```
 Sub doc2docx()
 Dim myDialog As FileDialog, oFile As Variant
 Set myDialog = Application.FileDialog(msoFileDialogFilePicker)
@@ -18,3 +19,4 @@ With myDialog
     End If
  End With
  End Sub
+```
